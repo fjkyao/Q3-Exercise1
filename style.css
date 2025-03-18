@@ -20,9 +20,7 @@ body {
   font-style: normal;
 }
 
-img.{
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+img{
 	width: 50%;
+	margin-inline: 80%;
 }
